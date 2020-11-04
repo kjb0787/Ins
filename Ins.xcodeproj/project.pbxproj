@@ -17,6 +17,7 @@
 		DE93ACB72543B5B30057B00D /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE93ACB62543B5B30057B00D /* FeedViewController.swift */; };
 		DE93ACC02543C3280057B00D /* CamaraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE93ACBF2543C3280057B00D /* CamaraViewController.swift */; };
 		DE93ACD12543E4A40057B00D /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE93ACD02543E4A40057B00D /* PostCell.swift */; };
+		DEDA016725527C3E006B0F5C /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEDA016625527C3E006B0F5C /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		DE93ACB62543B5B30057B00D /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		DE93ACBF2543C3280057B00D /* CamaraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamaraViewController.swift; sourceTree = "<group>"; };
 		DE93ACD02543E4A40057B00D /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		DEDA016625527C3E006B0F5C /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				DE93ACB62543B5B30057B00D /* FeedViewController.swift */,
 				DE93ACBF2543C3280057B00D /* CamaraViewController.swift */,
 				DE93ACD02543E4A40057B00D /* PostCell.swift */,
+				DEDA016625527C3E006B0F5C /* CommentCell.swift */,
 			);
 			path = Ins;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				DE93ACB72543B5B30057B00D /* FeedViewController.swift in Sources */,
 				DE8333402543AE4400F94E18 /* SceneDelegate.swift in Sources */,
 				DE93ACD12543E4A40057B00D /* PostCell.swift in Sources */,
+				DEDA016725527C3E006B0F5C /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
